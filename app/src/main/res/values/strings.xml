@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mandelbrot Cube</string>
+    <string name="opengl_es_2_0_not_supported">OpenGL ES 2.0 not supported! This wallpaper won\'t work :\'(</string>
+</resources>
